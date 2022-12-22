@@ -1,3 +1,4 @@
-greting = 'hola mundo'
+# assigning str "hola mundo" to greeting variable
+greeting = 'hola mundo'
 
-print(greting)
+print(greeting)
